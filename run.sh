@@ -1,11 +1,11 @@
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Bundles/InAppSettings.bundle Root.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Bundles/Settings.bundle SettingsRoot.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Resources Localizable.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/sharetoideabook/Resources Localizable.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/sharetoideabook/Resources ShareInterface.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources InfoPlist.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources Localizable.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources Root.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources/Settings.bundle Root.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Modules/HouzzFoundation/Resources data.strings --check-missing-key
-.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Modules/IvyCore/Resources FloorPlan.strings --check-missing-key
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Bundles/InAppSettings.bundle Root.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Bundles/Settings.bundle SettingsRoot.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/Resources Localizable.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/sharetoideabook/Resources Localizable.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Consumer/sharetoideabook/Resources ShareInterface.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources InfoPlist.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources Localizable.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources Root.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Apps/Pro/Resources/Settings.bundle Root.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Modules/HouzzFoundation/Resources data.strings
+.build/release/StringsTool /Users/jimmyli/sources/c2iphone/Modules/IvyCore/Resources FloorPlan.strings
